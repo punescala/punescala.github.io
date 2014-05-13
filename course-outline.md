@@ -12,12 +12,12 @@ Principles of Programming in Scala
 * Strategy Pattern
 * Generic Strategy
 * Functions as values, and Higher order functions
-* Lambdas
+* Lambdas syntax
 * Difference between Methods and Functions
 * Recursive functions
 * Currying and partial function application and positional notation
 * Tail recursion
-* val , var, lazy val, pass-by-value and pass-by-name
+* Val, var, lazy val, pass-by-value and pass-by-name
 
 ##### **Object Oriented Programming in Scala**
 
@@ -28,50 +28,46 @@ Principles of Programming in Scala
 * Class extension, overriding vals, dynamic dispatch
 * Name based dependency resolution
 * Object hierarchy
-* Exceptions and null type, unit
+* Exceptions, Nothing and Null types, unit
 * Infix notation
 * Operators as methods
 * Tuples
 
 ##### **Pattern matching**
 
-* Sample code for various patterns
 * Option / Some / None
 * Extractors
 * Expression problem
 * Pattern forms
-* contants
-* variables
-* constructors
-* exceptions
+  * constants
+  * variables
+  * constructors
+  * exceptions
 * PartialFunction
 
 
-##### **Collections and combinators based programming**
+##### **Collections and combinators**
 
 * No syntax
 * Immutable vs mutable collections
 * Seq, Set, Map, Iterators
-* map, filter, folding, reduce
-* take, drop etc,
+* Take, drop etc,
+* Map, filter, folding, reduce
+* FlatMap, Collect,
+* Foreach
 * Working with list: :: operator :::
-* recursion
 * Function composition
-* foreach
-* groupBy,
-* flatMap, collect,
-* for comprehensions
+* GroupBy,
+* For comprehensions
 * Options with for
 
 ##### **Implicits**
 
-* implicit classes: extension methods
-* implicit defs: not-recommended (dotted relationships, array and string interoperability)
-* implicit parameters: type classes
-* Using tappers for debugging
-* generic function
-* Monad
-* Reverse Ordering
+* Implicit classes: extension methods
+  * Using tappers for debugging
+* Implicit defs: not-recommended (dotted relationships, array and string interoperability)
+* Implicit parameters: type classes
+  * Reverse Ordering
 
 ##### **Misc Topics**
 
@@ -79,11 +75,11 @@ Principles of Programming in Scala
 * Regular expression
 * Memory implications of immutable data structures
 * Module system using traits
-* packages and visibility
+* Packages and visibility
 * Java-Scala interoperability: collections
-* auxiliary constructors
+* Auxiliary constructors
 
-##### **Pain-points of Scala**
+##### **Discussion pain-points**
 
 * Compile times
 * Binary compatibility

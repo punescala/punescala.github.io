@@ -1,10 +1,10 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: PuneScala
+email: punescala@gmail.com
+description: "PuneScala is the community site of Scala practitioners from Pune started by developers at ThoughtWorks who are passionate Scala users."
 baseurl: ""
-url: "http://yourdomain.com"
-
+url: "http://punescala.org"
+username: punescala
 # Build settings
 markdown: kramdown
 permalink: pretty

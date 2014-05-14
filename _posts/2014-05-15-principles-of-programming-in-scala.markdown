@@ -13,7 +13,7 @@ tags: thoughtworks, scala, training
 The course will use Scala as a medium to introduce principles of both OOP and Functional programming. It will show you that FP and OOP are yin-yang of each other and how Scala unites them tastefully. It will also teach how to apply this novel combination to solve real world problems. Here is the [outline](/course-outline) of topic covered in this course. Almost all examples will make use of only the Scala standard library. The course will NOT cover tools, frameworks, concurrency, actors and such. Those topics will be covered in future courses (for which the current course is a prerequisite). We promise that the course will be fun and very different than the other trainings that you may have done earlier.
 
 ##### **Course Dates, Timings, Food**
-The course dates are *20th to 23rd June 2014 (Fri to Tue)*. Yes, you will have to put in 2 working days and the entire weekend to complete the course. Course timings will be 9am to 5pm. Breakfast, lunch and beverages will be provided by ThoughtWorks.
+The course dates are *20th to 23rd June 2014 (Fri to Mon)*. Yes, you will have to put in 2 working days and the entire weekend to complete the course. Course timings will be 9am to 5pm. Breakfast, lunch and beverages will be provided by ThoughtWorks.
 
 ##### **Selection**
 You must be a hands on programmer to apply. It does not matter then if you are a university student, experienced polyglot programmer, non-comp-science professional who does programming on the side as long as you can take a simple coding test. The coding problem will be sent via emails to all those who register. You can use any programming language you like to solve the problem. By design, the difficulty level of the problem will be low. It will test your basic coding skills and commitment to finish a given task (hopefully, implying the commitment to finish the course).
@@ -30,7 +30,7 @@ Please register [using this form](http://goo.gl/Dd4Tjj)
 ##### **Venue**
 The location of training is our [Pune office](http://goo.gl/KQCQvG):
 
->Technologies (India) Pvt Ltd. 6th Floor,<br/>
+>ThoughtWorks Technologies (India) Pvt Ltd. 6th Floor,<br/>
 >Binarius Building, Deepak Complex<br/>
 >National Games Road, Shastrinagar, Yerawada<br>
 >Pune, Maharashtra 411006

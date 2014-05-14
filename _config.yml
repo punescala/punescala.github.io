@@ -1,7 +1,7 @@
 # Site settings
 title: PuneScala
 email: punescala@gmail.com
-description: "PuneScala is the community site of Scala practitioners from Pune started by developers at ThoughtWorks who are passionate Scala users."
+description: "PuneScala is the community site of Scala practitioners from Pune. It is started by developers at ThoughtWorks who are passionate Scala users."
 baseurl: ""
 url: "http://punescala.org"
 username: punescala

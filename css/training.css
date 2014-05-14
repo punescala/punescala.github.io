@@ -8,13 +8,13 @@
 }
 
 .venue h1 {
-  color: #ee5360;
+  color: #F51124;
   font-size: 36px;
   letter-spacing: -1.50px;
   text-align: center;
   padding-bottom: 10px;
   margin-bottom: 10px;
-  border-bottom: 1px solid #FA8E97;
+  border-bottom: 1px solid #F51124;
 }
 
 .venue .location, .venue .date {

@@ -14,14 +14,15 @@ css: training
 <p class="location">
   <a href="http://goo.gl/KQCQvG" title="ThoughtWorks Pune Office">ThoughtWorks, Pune </a>
 </p>
-<p class="date"> Friday, 20th June, 2014 - Monday, 23rd June, 2014 | 9:00 am - 5:00 pm </p>
+<p class="date"> Friday, 20th June, 2014 - Monday, 23rd June, 2014 </p>
+<p class="date"> 9:00 am - 5:00 pm </p>
 
 <div class="register">
-  <a href="http://goo.gl/Dd4Tjj" title="Register for Scala training"> Register </a>
+  <a href="http://info.thoughtworks.com/pune-scala-workshop-june-2014-registration.html" title="Register for Scala training"> Register </a>
 </div>
 </div>
 
-##### **Principles of programming in Scala (20th-23rd June 2014)**
+##### **Principles of programming in Scala**
 [ThoughtWorks](http://www.thoughtworks.com/), Pune is glad to announce a *free for all* course in [Scala](http://www.scala-lang.org/) programming. It is a 4 days course with live coding and hands on exercises (no slides, yay!). The course will use Scala as a medium to introduce principles of both Object Oriented and Functional programming. It will show you that FP and OOP are yin-yang of each other. It will show how Scala unites them tastefully. We will also cover how to apply this novel combination to solve real world problems.
 
 Here is the [outline](/course-outline) of topics covered in this course. Almost all examples will make use of the Scala standard library only. The course will NOT cover tools, frameworks, concurrency, actors etc. Those topics will be covered in future courses (for which the current course is a prerequisite). We promise the course will be fun and very different than the other trainings which you might have attended earlier.

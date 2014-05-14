@@ -38,7 +38,15 @@ You must be a hands on programmer to apply. It does not matter if you are a univ
 This is the same course we otherwise offer as a commercial corporate training. So why are we doing it for free? Well, we have been active Scala users for a long time but, we see that Scala awareness in the local community is not great. We recently organized the [Pune Scala Symposium](http://goo.gl/fYsyul) where ThoughtWorks was the only company representing Pune among the speakers. Our main objective of this programme is to bridge this gap. That does not mean it is restricted to only Puneites. If you can manage your own travel and stay, you are most welcome to apply.
 
 ##### **When is it?**
-The course dates are **20th-23rd June 2014 (Fri-Mon)**. Yes, you will have to put in 2 working days and the entire weekend to complete the course. The session timings will be *9am-5pm*. Breakfast, lunch and b~
+The course dates are **20th-23rd June 2014 (Fri-Mon)**. Yes, you will have to put in 2 working days and the entire weekend to complete the course. The session timings will be *9am-5pm*. Breakfast, lunch and beverages will be provided by ThoughtWorks.
+
+##### **Where is it?**
+The location of training is our [Pune office](http://goo.gl/KQCQvG):
+
+>ThoughtWorks Technologies (India) Pvt Ltd. 6th Floor,<br/>
+>Binarius Building, Deepak Complex<br/>
+>National Games Road, Shastrinagar, Yerawada<br>
+>Pune, Maharashtra 411006
 
 ##### **Who are the Trainers?**
 * [Mushtaq Ahmed](http://www.linkedin.com/profile/view?id=1886699)

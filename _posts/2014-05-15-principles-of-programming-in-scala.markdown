@@ -4,6 +4,7 @@ title: Scala training course from ThoughtWorks
 date: 2014-05-15 15:14:22
 categories: training
 tags: thoughtworks, scala, training
+noHeader: true
 css: training
 ---
 <div class="venue">

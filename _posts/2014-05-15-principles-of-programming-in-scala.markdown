@@ -41,7 +41,7 @@ This is the same course we otherwise offer as a commercial corporate training. S
 The course dates are **20th-23rd June 2014 (Fri-Mon)**. Yes, you will have to put in 2 working days and the entire weekend to complete the course. The session timings will be *9am-5pm*. Breakfast, lunch and beverages will be provided by ThoughtWorks.
 
 ##### **Where is it?**
-The location of training is our [Pune office](http://goo.gl/fHdYVv):
+The location of training is our [Pune office](http://goo.gl/fHdYVv) now with updated link:
 
 >ThoughtWorks Technologies (India) Pvt Ltd. 6th Floor,<br/>
 >Binarius Building, Deepak Complex<br/>
